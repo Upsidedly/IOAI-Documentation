@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Examples/IOAI Test Environment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
-        "id": "2daa6039899f6ca2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9437b0b31ba6a8ed",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "IOAI Test Environment"
             }
           }
         ]
@@ -197,6 +181,18 @@
   },
   "active": "18ab68ce7f3f75fb",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Code Examples/Team Workflow.md",
+    "Welcome.md",
+    "Welcome.md",
+    "Examples/IOAI Grasp Environment.md",
+    "Examples/IOAI Test Environment.md",
+    "Examples/IOAI Navigation Environment.md",
+    "Examples/IOAI Environment.md",
+    "Math/kinematics.md",
+    "Math/coordinate_transformations.md",
+    "Math",
+    "Examples",
+    "Code Examples",
+    "IOAI Documentation"
   ]
 }
